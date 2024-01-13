@@ -4,4 +4,7 @@
 
 ## Change the With your Key
 
+To run the follow commain
 
+# 1) npm i or yarn
+## 2) npm start or yarn start
